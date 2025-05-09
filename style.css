@@ -23,4 +23,17 @@
     max-width: 800px;
     margin: auto;
   }
+  input[type="text"] {
+    padding: 0.5rem;
+    width: 70%;
+    margin-right: 10px;
+  }
   
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+    
